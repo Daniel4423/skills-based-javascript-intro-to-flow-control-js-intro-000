@@ -50,3 +50,4 @@ function switchAge(age) {
 
   }
 }
+//no breaks needed cuz it's all returns!
